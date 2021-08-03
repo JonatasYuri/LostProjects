@@ -1,5 +1,5 @@
 # LostProjects
-*É a idéia de um futuro jogo simples, que quero fazer quando eu saber programar!*
+*Nota: É a idéia de um futuro jogo simples, que quero fazer quando eu saber programar! Vou aprender programar C# quando terminar o curso de excel*
 
 Oran está em uma ilha esquecida, ele viu uma coisa diferente acontecer no horizonte, e ele vai investigar.
 Para chegar no destino é uma demorada jornada, então ele tem que usar sua habilidade de mudar de forma para chegar lá!
