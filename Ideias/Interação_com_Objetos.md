@@ -12,6 +12,27 @@ Eles Não podem ser possuídos, más podem ser atravessados.
 - Vidro: Oran não pode atravessa
 - Vidro Plasmático: Orbe não pode atravessar
 
+## input
+São mecanismos para ativar os output
+### butão
+- basico: ativa com qualquer coisa.
+- objetos: ativa com objetos.
+- jogador: ativa quando o jogador estiver em cima. 
+- pressão: ativa quando o número certo de objetos estiver em cima.
+
+### alavanca
+### chave
+Abre as portas das fazes correspondentes
+- formato de concha: abre a porta da praia.
+- fragmento da porta: abre as portas dos restos anciões.
+- chave comum: abre portas da cidade.
+- chave avançada: abre portas da cidade avançada.
+- cartão holográfico: abre as portas das naves caídas.
+- chave cristalina: abre as portas do museu de mundos.
+
+## output
+/a fazer...
+
 ## Outros
 ### Trilho / trilho eletrico
 Isso serve para manter o Oran pela trilha que nem um trem. Indo de uma ponta para a outra!
