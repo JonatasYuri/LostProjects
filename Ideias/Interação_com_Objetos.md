@@ -31,7 +31,15 @@ Abre as portas das fazes correspondentes
 - chave cristalina: abre as portas do museu de mundos.
 
 ## output
-/a fazer...
+São ativados pelos input
+### Portas
+- porta automática: abrem quando um botão ou alavanca são ativados.
+- porta manual: abrem com as chaves
+- porta frágil: abre quando quebrada
+
+### blocos 
+- fogete: voa quando ativo
+- pistão: empurra quando ativo
 
 ## Outros
 ### Trilho / trilho eletrico
