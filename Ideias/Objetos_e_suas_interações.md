@@ -42,6 +42,12 @@ São ativados pelos input
 - pistão: empurra quando ativo
 
 ## Outros
+### espinhos
+Você morre :)
+
+### Água
+É um líquido, que age como líquido, e algumas coisas pode flutuar.
+
 ### Trilho / trilho eletrico
 Isso serve para manter o Oran pela trilha que nem um trem. Indo de uma ponta para a outra!
 Os trilhos normais tem que usar força manual (Aremesso) para se locomover, os trilhos elétricos vão te levar automaticamente!
