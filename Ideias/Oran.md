@@ -10,6 +10,11 @@ Oran é o personagem principal de LostProjects
 ### orbe fantasma
 A forma avançada de possuir. **Oran** lanca uma bola fantasma que pode posuir múltiplos objetos, isso reage diferentemente do objeto. Leia [interações com objetos](https://github.com/JonatasYuri/LostProjects/blob/main/Ideias/Intera%C3%A7%C3%A3o_com_Objetos.md).
 
+### conectar
+Junta os movimentos de objetos, se um objeto se mover o outro também se move, se um parar os dois param.
+- slots: 5
+- conexões máxima: 7
+
 ### congelar
 Quando um objeto estiver possuído, aparecerá uma opção de **travar objeto no lugar**.
 
