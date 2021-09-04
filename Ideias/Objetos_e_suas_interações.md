@@ -28,7 +28,7 @@ São mecanismos para ativar os output
 ### chave
 Abre as portas das fazes correspondentes
 - formato de concha: abre a porta da praia.
-- chave da brilhante: abre as portas dos restos anciões.
+- chave da brilhante: abre as portas do resto de memória.
 - chave comum: abre portas da cidade.
 - chave Avançada: abre portas da cidade de Elino.
 - chave plasmática: abre portas da forga.
@@ -46,6 +46,12 @@ São ativados pelos input
 ### blocos 
 - fogete: voa quando ativo
 - pistão: empurra quando ativo
+
+## Objetos da orbe 
+- refletor: quica a orbe, limitadamente ou não.
+- divisor: da dano a orbe.
+- multiplicador: recupera a vida da orbe.
+- teleportador: teleporta a orbe para outro local.
 
 ## Outros
 ### espinhos
