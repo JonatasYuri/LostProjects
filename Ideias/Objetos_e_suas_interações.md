@@ -21,12 +21,18 @@ São mecanismos para ativar os output
 - pressão: ativa quando o número certo de objetos estiver em cima.
 
 ### alavanca
+- on/off: pode ser ativado e desativado sem problemas.
+- temporizador: quando ativado ou desativado, vai lentamente desativar ou ativar.
+- regulamento: tem vários opções para a alavanca ficar.
+
 ### chave
 Abre as portas das fazes correspondentes
 - formato de concha: abre a porta da praia.
-- fragmento da porta: abre as portas dos restos anciões.
+- chave da brilhante: abre as portas dos restos anciões.
 - chave comum: abre portas da cidade.
-- chave avançada: abre portas da cidade avançada.
+- chave Avançada: abre portas da cidade de Elino.
+- chave plasmática: abre portas da forga.
+- chave de gelo: abre portas da floresta de gelo.
 - cartão holográfico: abre as portas das naves caídas.
 - chave cristalina: abre as portas do museu de mundos.
 
