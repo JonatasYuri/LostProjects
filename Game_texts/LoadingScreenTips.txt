@@ -1,6 +1,6 @@
 "Normais:"
 Aperte *A* para pular;
-Segurar *B* Não vai te curar;
+Segurar *B* Não vai recuperar vida;
 Manter sua vida acima de 0 pode te ajudar a ter sucesso!;
 Procure por segredos!;
 Ser bom significa que você terá mais chances de ganhar;
@@ -12,4 +12,23 @@ Muitos Universos, Parte de Ultraverso.;
 
 "Falas da Corrupção:"
 Você é Fraco, não tem habilidades normal de um genero plataforma.;
- 
+Não tem como se recuperar depois do que ele te fez.;
+Cuidado para não ser manipulado *:)*;
+Não vale apenas encontrar os passados...;
+Ser forte não é o suficiente para me matar.;
+Suas memórias, Oran...;
+Lugar a onde fui criado;
+Mas vale a pena levar eles para sofre com você?;
+No final eu vou ganhar, tudo vai ser meu.;
+
+"Falas da Corrupção (muito raras e em seguida):"
+O Draion... e o que você quer achar?...;
+...Se lebre suas memórias não são suas...;
+...São memórias são de outros como vocês!;
+O passado não é o passado, o passado é outro universo...;
+...Inativo que nem muitos outros...;
+...Alguns nem fazendo parte da idéia central...
+...Mas o meu só começou!...;
+Oran, Zacrom e Sharom, foram os espíritos rejeitados...;
+...Mas o Draion, ele não podia ser facilmente removido...;
+...ele era o coração da história!...;
