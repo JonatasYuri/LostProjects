@@ -2,13 +2,13 @@
 Oran é o personagem principal de LostProjects
 
 - Vida: 3
-- Cooldown de arremessar: 5s
-## Habilidades de Oran
+## Habilidades
 ### posuir
 **Oran** é um fantasma, então ele pode possuir objetos! Isso significa que pode **controlar** objetos, usar sua função, pistões empurram e foguetes voam, além disso o objeto pode **pular** e **andar**, até **se alto destruir**. más é claro o **Oran** não vai morrer.
 
 ### orbe fantasma
 A forma avançada de possuir. **Oran** lanca uma bola fantasma que pode posuir múltiplos objetos, isso reage diferentemente do objeto. Leia [interações com objetos](https://github.com/JonatasYuri/LostProjects/blob/main/Ideias/Intera%C3%A7%C3%A3o_com_Objetos.md).
+- Cooldown de arremessar: 5s
 
 ### conectar
 Faz um grupo de objetos e juntar os movimentos de objetos, se um objeto se mover o outro também se move, se um parar os dois param.
@@ -24,3 +24,28 @@ Quando um objeto estiver possuído, aparecerá uma opção de **travar objeto no
 ### Travar Eixo
 A forma avançada de congelar, pode **travar** o **eixo X** ou **Y**.
 
+
+
+# Sharom
+Uma passarinha, ela pode voar e tem poder de telepatia para controlar.
+- vida: 5
+## Habilidades
+### Planar/Voar
+Ela pode "Voar" ou "Planar" em correntes de vento.
+### Controlar
+Ela pode controlar seres vivos e não vivos através da parede, em uma certa distância.
+### Conectar e Substituir 
+### Congelar e travar eixo
+
+
+
+# Zacrom 
+Um dragão pequeno, mas é forte e inteligente para usar computadores.
+- vida: 7 
+## Habilidades
+### Hackear computadores
+Zacrom pode manipular os computadores.
+### Atacar
+Zacrom é o único personagem que pode ataquar diretamente. :Vou
+### Conectar e Substituir 
+### Congelar e travar eixo
