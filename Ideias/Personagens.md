@@ -1,7 +1,8 @@
 # Oran
 Oran é o personagem principal de LostProjects
-
+- bóia na água.
 - Vida: 3
+
 ## Habilidades
 ### posuir
 **Oran** é um fantasma, então ele pode possuir objetos! Isso significa que pode **controlar** objetos, usar sua função, pistões empurram e foguetes voam, além disso o objeto pode **pular** e **andar**, até **se alto destruir**. más é claro o **Oran** não vai morrer.
@@ -29,6 +30,8 @@ A forma avançada de congelar, pode **travar** o **eixo X** ou **Y**.
 # Sharom
 Uma passarinha, ela pode voar e tem poder de telepatia para controlar.
 - vida: 5
+- flutua na água.
+
 ## Habilidades
 ### Planar/Voar
 Ela pode "Voar" ou "Planar" em correntes de vento.
@@ -42,6 +45,8 @@ Ela pode controlar seres vivos e não vivos através da parede, em uma certa dis
 # Zacrom 
 Um dragão pequeno, mas é forte e inteligente para usar computadores.
 - vida: 7 
+- afunda na água, pode nadar e respira por 15 segundos.
+
 ## Habilidades
 ### Hackear computadores
 Zacrom pode manipular os computadores.
