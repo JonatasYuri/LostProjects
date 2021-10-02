@@ -8,7 +8,7 @@ Oran é o personagem principal de LostProjects
 **Oran** é um fantasma, então ele pode possuir objetos! Isso significa que pode **controlar** objetos, usar sua função, pistões empurram e foguetes voam, além disso o objeto pode **pular** e **andar**, até **se alto destruir**. más é claro o **Oran** não vai morrer.
 
 ### orbe fantasma
-A forma avançada de possuir. **Oran** lanca uma bola fantasma que pode posuir múltiplos objetos, isso reage diferentemente do objeto. Leia [interações com objetos](https://github.com/JonatasYuri/LostProjects/blob/main/Ideias/Intera%C3%A7%C3%A3o_com_Objetos.md).
+A forma avançada de possuir. **Oran** lanca uma bola fantasma que pode posuir múltiplos objetos, isso reage diferentemente do objeto. Leia [interações com objetos](https://github.com/JonatasYuri/LostProjects/blob/main/Ideias/Objetos_e_suas_intera%C3%A7%C3%B5es.md).
 - Cooldown de arremessar: 5s
 
 ### conectar
@@ -30,7 +30,7 @@ A forma avançada de congelar, pode **travar** o **eixo X** ou **Y**.
 # Sharom
 Uma passarinha, ela pode voar e tem poder de telepatia para controlar.
 - vida: 5
-- flutua na água.
+- flutua na água. Mas não pode voar ou usar pulo duplo por 20s
 
 ## Habilidades
 ### Planar/Voar
